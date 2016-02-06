@@ -2,6 +2,7 @@ name: SpeedWerks Studio
 favicon: null
 layout_spectrum: 1
 typography_spectrum: 0.36595
+title: SpeedWerks Studio
 cta:
   domain: null
   bucket: null
